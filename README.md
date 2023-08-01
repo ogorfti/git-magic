@@ -1,4 +1,4 @@
- <h2>Git Magic</h1>
+ <h2>Git Magic</h2>
   <p>An intelligent Git commit assistant that saves time and effort when staging and pushing files. With just one simple command just provide a commit message, and the script will automatically stage and push the changes.</p>
 <h3>Installation</h2>
   <p>To use Git Magic, follow these steps:</p>
