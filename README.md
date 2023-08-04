@@ -20,6 +20,8 @@
 </ol>
 
 <h2>Usage</h2>
+
 <p>Run the script:</p>
 <pre><code>autopush.sh 'Your commit message' [file1] [file2] ...</code></pre>
-<p><strong>Note:</strong> Use "." to commit all files in the current directory.</p>
+<p><strong>Note:</strong></p>
+Use "." to commit all files in the current directory.
